@@ -9,9 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.12"
+    "better-sqlite3": "^11.3.0",
+    "next": "^15.0.0-canary.159",
+    "react": "^19.0.0-rc-5dcb0097-20240918",
+    "react-dom": "^19.0.0-rc-5dcb0097-20240918"
   },
   "devDependencies": {
     "postcss": "^8",
